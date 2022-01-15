@@ -1,4 +1,4 @@
-![Copy of green background](https://user-images.githubusercontent.com/76507607/130499888-e8deec30-b4cd-44eb-b8a2-f01198990de8.gif)
+<!-- ![Copy of green background](https://user-images.githubusercontent.com/76507607/130499888-e8deec30-b4cd-44eb-b8a2-f01198990de8.gif) -->
 
 
 <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey Humans! </h1>
