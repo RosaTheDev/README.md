@@ -3,7 +3,7 @@
 
 <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey Humans! </h1>
 
-<div>My name is Richard (she/her).   I am a Front End Engineer currently studying at Turing School of Software & Design. </div>
+<div>My name is Richard (he/him).   I am a Front End Engineer currently studying at Turing School of Software & Design. </div>
 
 <br>
 <h2>:computer: Technologies</h2>
