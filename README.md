@@ -39,4 +39,4 @@
 <h4 align="center">Let's grab coffee & collab!</h4>
 <br>
 
-<div>You can find me on LinkedIn <a href="https://www.linkedin.com/in/richard-rosa-serrano/" />HERE.</div>
+<div>You can find me on LinkedIn <a href="https://www.linkedin.com/in/rosathedev/" />HERE.</div>
